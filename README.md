@@ -1,4 +1,4 @@
-##Arch            
+## Architecture Jenkins CI/CD Pipeline    
 
 ![Screenshot 2024-03-21 164807](https://github.com/Goofy05/Jenkins-ci-cd-Project/assets/158276086/8db2479f-15d8-4b6d-bacf-47c216e0b11d)
 
